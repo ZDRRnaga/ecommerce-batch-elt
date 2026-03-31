@@ -1,201 +1,201 @@
-product_id, product_name        , category   , unit_price, is_active, created_at
-         1, Classic Backpack    , beauty     ,     238.84, True     , 2025-04-16 06:16:18.570005
-         2, Smart Headphones    , books      ,     489.07, True     , 2024-09-16 23:52:04.793792
-         3, Eco Lamp            , fashion    ,     327.02, True     , 2024-09-17 23:40:53.071849
-         4, Portable Backpack   , sports     ,     324.72, True     , 2024-05-24 22:23:23.525335
-         5, Premium Shoes       , books      ,     119.95, True     , 2025-03-03 15:46:53.973296
-         6, Premium Bottle      , fashion    ,     441.71, True     , 2024-06-15 11:59:18.835661
-         7, Premium Watch       , fashion    ,     395.04, True     , 2025-06-17 16:23:38.962106
-         8, Eco Watch           , sports     ,     438.99, True     , 2024-07-29 11:51:39.902799
-         9, Essential Notebook  , electronics,     464.59, True     , 2024-07-31 06:35:57.028798
-        10, Classic Shoes       , books      ,     264.54, True     , 2024-12-19 13:52:27.082093
-        11, Smart Watch         , books      ,     236.67, True     , 2024-05-25 22:51:54.460850
-        12, Premium Backpack    , home       ,     366.9 , True     , 2025-11-08 22:55:10.332736
-        13, Eco Bottle          , electronics,     369.63, True     , 2024-10-16 16:11:39.431726
-        14, Essential Shoes     , home       ,      91.87, True     , 2025-04-28 19:40:07.881253
-        15, Classic Watch       , fashion    ,     260.06, True     , 2025-01-30 04:12:18.512852
-        16, Eco Headphones      , home       ,     490.93, True     , 2025-06-23 12:05:36.168589
-        17, Smart Headphones    , sports     ,     194.87, True     , 2025-05-23 08:39:02.762187
-        18, Portable Backpack   , sports     ,     293.32, True     , 2024-09-24 20:02:35.438121
-        19, Portable Shoes      , sports     ,     347.92, True     , 2026-01-08 06:34:53.550838
-        20, Premium Lamp        , sports     ,      84.06, True     , 2025-11-05 07:51:21.251123
-        21, Eco Watch           , sports     ,     346.69, True     , 2024-08-03 14:47:34.301821
-        22, Portable Backpack   , books      ,     114.32, False    , 2024-08-02 04:55:50.824454
-        23, Classic Bottle      , fashion    ,     375.13, True     , 2025-08-13 23:25:50.033995
-        24, Classic Shoes       , books      ,     456.83, True     , 2025-05-10 02:43:20.016015
-        25, Eco Watch           , home       ,     382.12, True     , 2025-11-05 12:12:58.782403
-        26, Essential Watch     , electronics,     265.13, True     , 2024-06-10 09:36:54.918640
-        27, Portable Headphones , books      ,      60.54, True     , 2025-03-24 09:30:55.702196
-        28, Essential Bottle    , books      ,     270.65, True     , 2024-04-04 00:40:53.653710
-        29, Essential Lamp      , electronics,     341.75, True     , 2024-06-17 08:07:26.016876
-        30, Classic Headphones  , books      ,     225.51, True     , 2024-07-24 06:04:34.218947
-        31, Smart Notebook      , fashion    ,     231.12, True     , 2025-02-14 00:10:38.376449
-        32, Classic Shoes       , sports     ,     363.02, True     , 2025-07-07 22:48:25.629454
-        33, Premium Shoes       , home       ,     291.26, True     , 2025-11-03 14:35:32.864742
-        34, Portable Shoes      , electronics,     272.88, True     , 2026-01-07 15:50:40.627452
-        35, Premium Lamp        , electronics,     147.11, True     , 2025-05-08 15:52:37.610131
-        36, Smart Watch         , beauty     ,     489.27, True     , 2025-02-20 10:41:53.084329
-        37, Classic Backpack    , fashion    ,     227.03, True     , 2025-05-19 19:11:18.196391
-        38, Classic Lamp        , electronics,     342.95, True     , 2026-01-13 02:28:36.982747
-        39, Essential Bottle    , beauty     ,     430.84, True     , 2024-11-27 23:16:03.939657
-        40, Essential Lamp      , books      ,      68.04, False    , 2025-06-25 21:06:36.301797
-        41, Premium Watch       , electronics,     489.35, True     , 2025-07-06 22:27:45.542927
-        42, Eco Notebook        , fashion    ,     268.31, True     , 2024-12-20 22:41:57.418947
-        43, Smart Lamp          , sports     ,      81.79, True     , 2024-10-20 00:47:56.432689
-        44, Eco Watch           , electronics,      20.95, True     , 2024-06-22 23:28:24.104407
-        45, Essential Watch     , electronics,     124.13, True     , 2024-04-09 09:52:40.604519
-        46, Essential Headphones, fashion    ,     300.9 , True     , 2024-06-14 03:26:08.178135
-        47, Premium Bottle      , beauty     ,      26.9 , True     , 2024-04-10 18:12:39.943234
-        48, Essential Bottle    , electronics,      74.37, False    , 2026-01-10 19:44:28.232090
-        49, Smart Watch         , beauty     ,     290.17, True     , 2025-10-28 01:24:09.354891
-        50, Eco Watch           , sports     ,     122.27, True     , 2024-08-18 09:24:49.322612
-        51, Eco Notebook        , home       ,     209.71, True     , 2025-06-08 23:55:36.760253
-        52, Essential Notebook  , beauty     ,     456.23, True     , 2025-06-09 17:53:41.059686
-        53, Classic Notebook    , fashion    ,      28.21, True     , 2025-01-17 07:05:32.190948
-        54, Eco Shoes           , fashion    ,     393.97, True     , 2025-05-24 20:50:12.065691
-        55, Classic Lamp        , home       ,     153.44, True     , 2025-09-11 19:04:47.190157
-        56, Essential Lamp      , home       ,     425.42, True     , 2024-08-06 02:41:49.443088
-        57, Eco Bottle          , fashion    ,     457.8 , True     , 2024-10-18 20:49:09.300174
-        58, Classic Notebook    , books      ,      71.38, True     , 2025-02-04 19:48:53.737890
-        59, Smart Backpack      , beauty     ,      44.14, True     , 2025-02-11 21:47:53.572998
-        60, Portable Headphones , books      ,     363.67, True     , 2024-04-14 17:39:33.339760
-        61, Portable Lamp       , beauty     ,     304.46, True     , 2024-07-20 11:28:59.515991
-        62, Premium Bottle      , books      ,     363.53, True     , 2024-07-11 07:17:55.879644
-        63, Classic Bottle      , sports     ,     155.08, True     , 2025-07-15 04:27:53.291879
-        64, Smart Bottle        , beauty     ,      63.07, False    , 2026-01-06 08:40:34.900198
-        65, Classic Bottle      , beauty     ,     304.18, True     , 2025-02-10 05:34:16.331620
-        66, Smart Notebook      , sports     ,     388.88, True     , 2025-10-28 14:01:30.111852
-        67, Essential Shoes     , sports     ,     157.67, True     , 2025-04-27 11:46:24.785942
-        68, Classic Lamp        , electronics,     402.39, True     , 2024-08-13 02:26:04.365348
-        69, Portable Bottle     , sports     ,     159.9 , True     , 2025-04-16 21:35:41.989624
-        70, Smart Shoes         , home       ,      13.03, True     , 2025-10-11 04:19:21.938559
-        71, Essential Notebook  , beauty     ,     211.7 , True     , 2024-05-04 06:00:31.013197
-        72, Portable Bottle     , fashion    ,     287.05, True     , 2024-04-05 09:18:08.939505
-        73, Essential Shoes     , beauty     ,     172.09, True     , 2025-05-27 18:50:47.511525
-        74, Classic Shoes       , beauty     ,     371.1 , True     , 2025-07-22 05:20:26.238089
-        75, Eco Watch           , sports     ,      88.79, True     , 2026-01-16 20:01:37.145632
-        76, Classic Bottle      , books      ,     495.21, False    , 2025-10-21 02:07:07.930529
-        77, Essential Headphones, electronics,     472.87, True     , 2025-08-07 07:18:13.516204
-        78, Premium Lamp        , home       ,     422.06, True     , 2025-05-04 14:33:26.561683
-        79, Eco Bottle          , electronics,     113.27, True     , 2025-04-06 18:11:44.474880
-        80, Premium Notebook    , beauty     ,     335.04, True     , 2024-10-12 01:35:51.106231
-        81, Classic Shoes       , fashion    ,      12.79, True     , 2025-02-20 23:09:11.607224
-        82, Classic Headphones  , electronics,     267.06, True     , 2025-02-20 00:41:47.987548
-        83, Portable Headphones , books      ,     407.51, True     , 2025-05-01 09:18:49.164533
-        84, Smart Headphones    , electronics,     264.57, True     , 2025-05-15 02:28:55.465252
-        85, Essential Notebook  , sports     ,     408.53, True     , 2025-06-29 03:23:30.103281
-        86, Classic Headphones  , sports     ,     479.85, True     , 2025-09-29 16:21:52.285525
-        87, Smart Shoes         , home       ,     153.49, True     , 2025-02-21 05:40:12.030135
-        88, Premium Shoes       , beauty     ,     380.99, True     , 2025-07-23 00:36:37.600707
-        89, Classic Lamp        , books      ,     240.62, True     , 2025-03-20 07:53:06.355148
-        90, Eco Bottle          , electronics,     252.43, True     , 2025-01-08 01:17:16.620555
-        91, Portable Notebook   , electronics,     447.92, True     , 2024-10-28 21:06:08.434345
-        92, Smart Bottle        , beauty     ,     444.34, True     , 2024-05-12 16:34:29.725431
-        93, Premium Headphones  , beauty     ,     463.16, True     , 2025-11-19 18:20:40.532963
-        94, Essential Shoes     , electronics,      93.78, True     , 2025-01-04 18:58:08.698837
-        95, Premium Bottle      , books      ,      76.37, True     , 2025-02-11 11:19:14.769171
-        96, Classic Headphones  , sports     ,      85.41, True     , 2025-02-25 20:29:49.955734
-        97, Classic Shoes       , books      ,     169.21, True     , 2025-12-20 15:57:32.323487
-        98, Smart Watch         , beauty     ,     363.46, True     , 2024-11-18 14:33:17.996016
-        99, Portable Headphones , electronics,     221.36, True     , 2025-07-11 18:39:39.244122
-       100, Portable Notebook   , books      ,     477.65, True     , 2024-04-14 01:24:30.162433
-       101, Portable Headphones , beauty     ,     140.3 , False    , 2024-10-10 05:07:28.499915
-       102, Classic Bottle      , sports     ,     278.75, True     , 2024-08-06 23:24:15.681950
-       103, Smart Shoes         , books      ,     332.03, True     , 2024-11-16 15:37:13.739875
-       104, Essential Backpack  , home       ,     357.99, True     , 2024-09-02 17:29:06.793868
-       105, Smart Lamp          , beauty     ,     393.03, True     , 2024-08-25 09:56:16.845380
-       106, Classic Backpack    , sports     ,      57.74, True     , 2025-11-30 14:54:50.041883
-       107, Portable Lamp       , sports     ,     381.87, True     , 2024-11-13 12:04:50.138383
-       108, Premium Bottle      , fashion    ,     227.18, True     , 2025-05-08 19:17:58.784467
-       109, Classic Headphones  , electronics,      49.36, True     , 2025-10-16 23:10:12.282364
-       110, Essential Notebook  , sports     ,     432.54, True     , 2025-06-14 14:02:53.971962
-       111, Classic Lamp        , electronics,     363.8 , True     , 2024-06-27 01:08:02.540067
-       112, Smart Notebook      , books      ,      88.94, True     , 2024-10-13 19:44:57.939719
-       113, Smart Backpack      , sports     ,     137.86, True     , 2025-07-21 01:51:44.210405
-       114, Smart Lamp          , sports     ,     213.45, True     , 2026-01-03 15:17:18.348097
-       115, Premium Backpack    , sports     ,     472.39, True     , 2025-10-10 16:07:43.737291
-       116, Classic Notebook    , books      ,     101.8 , True     , 2025-06-25 09:54:46.119875
-       117, Portable Headphones , fashion    ,     169.45, True     , 2025-08-05 15:10:35.883806
-       118, Portable Lamp       , sports     ,     218.16, True     , 2025-09-15 19:00:12.134748
-       119, Eco Notebook        , home       ,     153.72, True     , 2025-09-18 07:52:04.295238
-       120, Eco Bottle          , fashion    ,     160.52, False    , 2025-10-18 08:23:07.369008
-       121, Portable Backpack   , beauty     ,     349.0 , True     , 2025-05-22 00:58:56.649768
-       122, Essential Watch     , home       ,     166.31, True     , 2024-10-06 11:45:33.343160
-       123, Classic Backpack    , electronics,     466.37, True     , 2025-08-15 11:14:02.098889
-       124, Essential Bottle    , beauty     ,     384.97, True     , 2025-06-21 08:32:44.079145
-       125, Eco Lamp            , beauty     ,     108.78, True     , 2024-06-25 15:57:11.211440
-       126, Eco Headphones      , fashion    ,     338.12, True     , 2024-08-11 20:35:51.699243
-       127, Portable Bottle     , sports     ,     331.04, True     , 2025-05-11 06:00:56.154877
-       128, Classic Headphones  , fashion    ,     495.4 , True     , 2024-06-06 18:17:15.545423
-       129, Classic Notebook    , books      ,     462.13, True     , 2025-01-04 00:24:50.447414
-       130, Classic Notebook    , electronics,     396.41, True     , 2026-01-26 09:49:07.236541
-       131, Essential Notebook  , beauty     ,     457.63, True     , 2024-10-20 16:48:49.856321
-       132, Smart Shoes         , beauty     ,     180.73, True     , 2024-08-18 12:41:15.712018
-       133, Premium Notebook    , beauty     ,     340.35, True     , 2024-05-01 15:41:19.199955
-       134, Portable Watch      , fashion    ,      57.44, True     , 2024-04-12 06:20:31.834499
-       135, Smart Notebook      , beauty     ,     261.8 , True     , 2025-11-11 17:42:41.659198
-       136, Essential Bottle    , fashion    ,     190.19, True     , 2024-11-25 11:58:19.150137
-       137, Eco Notebook        , beauty     ,     252.73, True     , 2024-07-15 10:47:46.849820
-       138, Premium Lamp        , electronics,     151.24, True     , 2025-10-07 05:32:46.362896
-       139, Premium Headphones  , beauty     ,      75.13, True     , 2025-11-20 19:46:25.001300
-       140, Classic Watch       , home       ,     262.95, True     , 2024-04-21 13:02:21.669859
-       141, Premium Lamp        , beauty     ,     349.9 , True     , 2024-05-12 19:04:09.795805
-       142, Portable Headphones , beauty     ,      61.97, True     , 2025-01-13 19:55:52.028003
-       143, Eco Headphones      , beauty     ,     401.02, True     , 2025-05-19 04:07:09.971827
-       144, Eco Bottle          , books      ,      91.35, True     , 2024-06-20 00:38:50.018021
-       145, Essential Lamp      , fashion    ,     119.77, True     , 2024-08-28 08:37:58.029700
-       146, Smart Bottle        , beauty     ,     330.37, True     , 2024-09-19 23:20:36.498276
-       147, Eco Notebook        , home       ,     227.54, True     , 2024-11-14 06:55:38.025153
-       148, Premium Shoes       , home       ,     106.86, True     , 2024-11-24 06:57:38.206175
-       149, Premium Notebook    , electronics,     400.75, True     , 2024-05-01 09:41:12.794549
-       150, Portable Backpack   , home       ,     231.49, True     , 2025-11-09 14:20:24.147438
-       151, Classic Notebook    , beauty     ,     160.14, True     , 2024-09-26 10:56:02.040421
-       152, Classic Notebook    , electronics,     177.22, True     , 2024-07-10 11:16:59.371723
-       153, Essential Bottle    , beauty     ,     354.46, True     , 2025-07-06 19:55:25.893396
-       154, Essential Notebook  , electronics,     337.69, True     , 2025-03-11 15:57:38.433357
-       155, Smart Backpack      , electronics,      95.61, True     , 2025-06-22 23:38:20.127905
-       156, Essential Lamp      , fashion    ,     300.23, True     , 2025-07-17 17:43:19.878423
-       157, Classic Bottle      , fashion    ,     319.57, True     , 2025-12-12 09:30:44.201649
-       158, Eco Bottle          , books      ,      87.6 , True     , 2025-01-18 15:53:25.932814
-       159, Smart Backpack      , fashion    ,     311.61, True     , 2025-01-31 14:36:02.246369
-       160, Premium Lamp        , home       ,     101.59, True     , 2025-10-16 09:10:04.346578
-       161, Essential Notebook  , beauty     ,     250.01, True     , 2024-06-13 11:38:21.276619
-       162, Classic Shoes       , fashion    ,     246.91, True     , 2024-06-10 02:33:15.503833
-       163, Premium Watch       , home       ,     149.58, True     , 2025-05-14 11:38:01.080739
-       164, Essential Backpack  , home       ,     391.47, True     , 2025-09-06 12:40:35.033903
-       165, Classic Notebook    , books      ,      61.04, True     , 2025-12-26 07:26:01.585692
-       166, Essential Watch     , sports     ,     273.31, True     , 2025-10-04 07:44:01.643027
-       167, Eco Lamp            , books      ,     113.18, True     , 2024-04-28 05:56:43.337514
-       168, Eco Watch           , beauty     ,     376.92, True     , 2024-06-09 18:49:04.424630
-       169, Premium Lamp        , sports     ,     177.55, True     , 2025-05-27 11:03:43.307814
-       170, Classic Watch       , electronics,     388.94, True     , 2025-11-05 00:12:24.818608
-       171, Eco Notebook        , beauty     ,     178.56, True     , 2025-12-01 21:44:20.686650
-       172, Eco Lamp            , home       ,     309.99, True     , 2024-07-14 09:29:08.555223
-       173, Smart Watch         , electronics,     287.19, True     , 2024-10-12 23:17:46.437601
-       174, Essential Notebook  , home       ,     165.21, True     , 2025-01-21 03:17:15.409357
-       175, Portable Notebook   , sports     ,     476.44, True     , 2025-03-05 07:14:19.892894
-       176, Eco Watch           , electronics,      72.12, True     , 2025-08-04 06:28:00.438803
-       177, Classic Headphones  , sports     ,     434.19, True     , 2024-06-05 16:23:18.834557
-       178, Smart Bottle        , home       ,     357.14, True     , 2025-06-07 23:18:10.141207
-       179, Eco Lamp            , fashion    ,      75.37, True     , 2024-11-10 10:56:13.268586
-       180, Eco Lamp            , fashion    ,     228.74, True     , 2024-07-01 11:33:42.105992
-       181, Premium Lamp        , books      ,     376.15, True     , 2025-10-21 01:46:41.604820
-       182, Portable Lamp       , fashion    ,     167.01, True     , 2025-01-19 12:30:57.291559
-       183, Eco Headphones      , beauty     ,     486.21, True     , 2025-01-03 20:38:24.641072
-       184, Eco Backpack        , electronics,     398.86, True     , 2025-08-28 17:30:21.131452
-       185, Classic Watch       , home       ,     249.88, True     , 2024-09-11 14:06:06.096389
-       186, Portable Backpack   , books      ,     291.08, True     , 2025-09-24 14:58:11.116974
-       187, Classic Watch       , sports     ,     447.61, True     , 2024-11-14 22:57:07.425395
-       188, Premium Headphones  , beauty     ,     393.03, True     , 2025-03-04 17:10:35.994307
-       189, Premium Watch       , home       ,     223.44, True     , 2024-05-27 06:08:08.604791
-       190, Classic Bottle      , beauty     ,     455.16, True     , 2024-12-05 19:39:37.537947
-       191, Portable Bottle     , sports     ,      51.2 , True     , 2025-08-19 05:12:00.602535
-       192, Premium Backpack    , beauty     ,     452.38, True     , 2024-11-27 21:53:38.114868
-       193, Classic Shoes       , sports     ,     364.36, True     , 2025-06-19 23:22:39.999722
-       194, Classic Shoes       , electronics,     353.33, True     , 2024-07-10 18:14:53.606859
-       195, Classic Headphones  , home       ,     298.87, True     , 2025-08-18 07:40:08.566973
-       196, Classic Headphones  , electronics,     349.32, True     , 2025-01-07 20:44:40.918802
-       197, Classic Shoes       , home       ,     241.46, True     , 2024-08-31 02:23:19.007577
-       198, Premium Shoes       , electronics,      56.08, True     , 2025-09-19 16:16:12.219839
-       199, Portable Bottle     , fashion    ,     387.86, True     , 2025-01-02 06:58:45.347839
-       200, Smart Shoes         , beauty     ,      75.71, True     , 2024-12-30 13:00:08.757077
+product_id,product_name,category,unit_price,is_active,created_at
+1,Classic Backpack,beauty,238.84,True,2025-04-16 06:50:42.570005
+2,Smart Headphones,books,489.07,True,2024-09-17 00:26:28.793792
+3,Eco Lamp,fashion,327.02,True,2024-09-18 00:15:17.071849
+4,Portable Backpack,sports,324.72,True,2024-05-24 22:57:47.525335
+5,Premium Shoes,books,119.95,True,2025-03-03 16:21:17.973296
+6,Premium Bottle,fashion,441.71,True,2024-06-15 12:33:42.835661
+7,Premium Watch,fashion,395.04,True,2025-06-17 16:58:02.962106
+8,Eco Watch,sports,438.99,True,2024-07-29 12:26:03.902799
+9,Essential Notebook,electronics,464.59,True,2024-07-31 07:10:21.028798
+10,Classic Shoes,books,264.54,True,2024-12-19 14:26:51.082093
+11,Smart Watch,books,236.67,True,2024-05-25 23:26:18.460850
+12,Premium Backpack,home,366.9,True,2025-11-08 23:29:34.332736
+13,Eco Bottle,electronics,369.63,True,2024-10-16 16:46:03.431726
+14,Essential Shoes,home,91.87,True,2025-04-28 20:14:31.881253
+15,Classic Watch,fashion,260.06,True,2025-01-30 04:46:42.512852
+16,Eco Headphones,home,490.93,True,2025-06-23 12:40:00.168589
+17,Smart Headphones,sports,194.87,True,2025-05-23 09:13:26.762187
+18,Portable Backpack,sports,293.32,True,2024-09-24 20:36:59.438121
+19,Portable Shoes,sports,347.92,True,2026-01-08 07:09:17.550838
+20,Premium Lamp,sports,84.06,True,2025-11-05 08:25:45.251123
+21,Eco Watch,sports,346.69,True,2024-08-03 15:21:58.301821
+22,Portable Backpack,books,114.32,False,2024-08-02 05:30:14.824454
+23,Classic Bottle,fashion,375.13,True,2025-08-14 00:00:14.033995
+24,Classic Shoes,books,456.83,True,2025-05-10 03:17:44.016015
+25,Eco Watch,home,382.12,True,2025-11-05 12:47:22.782403
+26,Essential Watch,electronics,265.13,True,2024-06-10 10:11:18.918640
+27,Portable Headphones,books,60.54,True,2025-03-24 10:05:19.702196
+28,Essential Bottle,books,270.65,True,2024-04-04 01:15:17.653710
+29,Essential Lamp,electronics,341.75,True,2024-06-17 08:41:50.016876
+30,Classic Headphones,books,225.51,True,2024-07-24 06:38:58.218947
+31,Smart Notebook,fashion,231.12,True,2025-02-14 00:45:02.376449
+32,Classic Shoes,sports,363.02,True,2025-07-07 23:22:49.629454
+33,Premium Shoes,home,291.26,True,2025-11-03 15:09:56.864742
+34,Portable Shoes,electronics,272.88,True,2026-01-07 16:25:04.627452
+35,Premium Lamp,electronics,147.11,True,2025-05-08 16:27:01.610131
+36,Smart Watch,beauty,489.27,True,2025-02-20 11:16:17.084329
+37,Classic Backpack,fashion,227.03,True,2025-05-19 19:45:42.196391
+38,Classic Lamp,electronics,342.95,True,2026-01-13 03:03:00.982747
+39,Essential Bottle,beauty,430.84,True,2024-11-27 23:50:27.939657
+40,Essential Lamp,books,68.04,False,2025-06-25 21:41:00.301797
+41,Premium Watch,electronics,489.35,True,2025-07-06 23:02:09.542927
+42,Eco Notebook,fashion,268.31,True,2024-12-20 23:16:21.418947
+43,Smart Lamp,sports,81.79,True,2024-10-20 01:22:20.432689
+44,Eco Watch,electronics,20.95,True,2024-06-23 00:02:48.104407
+45,Essential Watch,electronics,124.13,True,2024-04-09 10:27:04.604519
+46,Essential Headphones,fashion,300.9,True,2024-06-14 04:00:32.178135
+47,Premium Bottle,beauty,26.9,True,2024-04-10 18:47:03.943234
+48,Essential Bottle,electronics,74.37,False,2026-01-10 20:18:52.232090
+49,Smart Watch,beauty,290.17,True,2025-10-28 01:58:33.354891
+50,Eco Watch,sports,122.27,True,2024-08-18 09:59:13.322612
+51,Eco Notebook,home,209.71,True,2025-06-09 00:30:00.760253
+52,Essential Notebook,beauty,456.23,True,2025-06-09 18:28:05.059686
+53,Classic Notebook,fashion,28.21,True,2025-01-17 07:39:56.190948
+54,Eco Shoes,fashion,393.97,True,2025-05-24 21:24:36.065691
+55,Classic Lamp,home,153.44,True,2025-09-11 19:39:11.190157
+56,Essential Lamp,home,425.42,True,2024-08-06 03:16:13.443088
+57,Eco Bottle,fashion,457.8,True,2024-10-18 21:23:33.300174
+58,Classic Notebook,books,71.38,True,2025-02-04 20:23:17.737890
+59,Smart Backpack,beauty,44.14,True,2025-02-11 22:22:17.572998
+60,Portable Headphones,books,363.67,True,2024-04-14 18:13:57.339760
+61,Portable Lamp,beauty,304.46,True,2024-07-20 12:03:23.515991
+62,Premium Bottle,books,363.53,True,2024-07-11 07:52:19.879644
+63,Classic Bottle,sports,155.08,True,2025-07-15 05:02:17.291879
+64,Smart Bottle,beauty,63.07,False,2026-01-06 09:14:58.900198
+65,Classic Bottle,beauty,304.18,True,2025-02-10 06:08:40.331620
+66,Smart Notebook,sports,388.88,True,2025-10-28 14:35:54.111852
+67,Essential Shoes,sports,157.67,True,2025-04-27 12:20:48.785942
+68,Classic Lamp,electronics,402.39,True,2024-08-13 03:00:28.365348
+69,Portable Bottle,sports,159.9,True,2025-04-16 22:10:05.989624
+70,Smart Shoes,home,13.03,True,2025-10-11 04:53:45.938559
+71,Essential Notebook,beauty,211.7,True,2024-05-04 06:34:55.013197
+72,Portable Bottle,fashion,287.05,True,2024-04-05 09:52:32.939505
+73,Essential Shoes,beauty,172.09,True,2025-05-27 19:25:11.511525
+74,Classic Shoes,beauty,371.1,True,2025-07-22 05:54:50.238089
+75,Eco Watch,sports,88.79,True,2026-01-16 20:36:01.145632
+76,Classic Bottle,books,495.21,False,2025-10-21 02:41:31.930529
+77,Essential Headphones,electronics,472.87,True,2025-08-07 07:52:37.516204
+78,Premium Lamp,home,422.06,True,2025-05-04 15:07:50.561683
+79,Eco Bottle,electronics,113.27,True,2025-04-06 18:46:08.474880
+80,Premium Notebook,beauty,335.04,True,2024-10-12 02:10:15.106231
+81,Classic Shoes,fashion,12.79,True,2025-02-20 23:43:35.607224
+82,Classic Headphones,electronics,267.06,True,2025-02-20 01:16:11.987548
+83,Portable Headphones,books,407.51,True,2025-05-01 09:53:13.164533
+84,Smart Headphones,electronics,264.57,True,2025-05-15 03:03:19.465252
+85,Essential Notebook,sports,408.53,True,2025-06-29 03:57:54.103281
+86,Classic Headphones,sports,479.85,True,2025-09-29 16:56:16.285525
+87,Smart Shoes,home,153.49,True,2025-02-21 06:14:36.030135
+88,Premium Shoes,beauty,380.99,True,2025-07-23 01:11:01.600707
+89,Classic Lamp,books,240.62,True,2025-03-20 08:27:30.355148
+90,Eco Bottle,electronics,252.43,True,2025-01-08 01:51:40.620555
+91,Portable Notebook,electronics,447.92,True,2024-10-28 21:40:32.434345
+92,Smart Bottle,beauty,444.34,True,2024-05-12 17:08:53.725431
+93,Premium Headphones,beauty,463.16,True,2025-11-19 18:55:04.532963
+94,Essential Shoes,electronics,93.78,True,2025-01-04 19:32:32.698837
+95,Premium Bottle,books,76.37,True,2025-02-11 11:53:38.769171
+96,Classic Headphones,sports,85.41,True,2025-02-25 21:04:13.955734
+97,Classic Shoes,books,169.21,True,2025-12-20 16:31:56.323487
+98,Smart Watch,beauty,363.46,True,2024-11-18 15:07:41.996016
+99,Portable Headphones,electronics,221.36,True,2025-07-11 19:14:03.244122
+100,Portable Notebook,books,477.65,True,2024-04-14 01:58:54.162433
+101,Portable Headphones,beauty,140.3,False,2024-10-10 05:41:52.499915
+102,Classic Bottle,sports,278.75,True,2024-08-06 23:58:39.681950
+103,Smart Shoes,books,332.03,True,2024-11-16 16:11:37.739875
+104,Essential Backpack,home,357.99,True,2024-09-02 18:03:30.793868
+105,Smart Lamp,beauty,393.03,True,2024-08-25 10:30:40.845380
+106,Classic Backpack,sports,57.74,True,2025-11-30 15:29:14.041883
+107,Portable Lamp,sports,381.87,True,2024-11-13 12:39:14.138383
+108,Premium Bottle,fashion,227.18,True,2025-05-08 19:52:22.784467
+109,Classic Headphones,electronics,49.36,True,2025-10-16 23:44:36.282364
+110,Essential Notebook,sports,432.54,True,2025-06-14 14:37:17.971962
+111,Classic Lamp,electronics,363.8,True,2024-06-27 01:42:26.540067
+112,Smart Notebook,books,88.94,True,2024-10-13 20:19:21.939719
+113,Smart Backpack,sports,137.86,True,2025-07-21 02:26:08.210405
+114,Smart Lamp,sports,213.45,True,2026-01-03 15:51:42.348097
+115,Premium Backpack,sports,472.39,True,2025-10-10 16:42:07.737291
+116,Classic Notebook,books,101.8,True,2025-06-25 10:29:10.119875
+117,Portable Headphones,fashion,169.45,True,2025-08-05 15:44:59.883806
+118,Portable Lamp,sports,218.16,True,2025-09-15 19:34:36.134748
+119,Eco Notebook,home,153.72,True,2025-09-18 08:26:28.295238
+120,Eco Bottle,fashion,160.52,False,2025-10-18 08:57:31.369008
+121,Portable Backpack,beauty,349.0,True,2025-05-22 01:33:20.649768
+122,Essential Watch,home,166.31,True,2024-10-06 12:19:57.343160
+123,Classic Backpack,electronics,466.37,True,2025-08-15 11:48:26.098889
+124,Essential Bottle,beauty,384.97,True,2025-06-21 09:07:08.079145
+125,Eco Lamp,beauty,108.78,True,2024-06-25 16:31:35.211440
+126,Eco Headphones,fashion,338.12,True,2024-08-11 21:10:15.699243
+127,Portable Bottle,sports,331.04,True,2025-05-11 06:35:20.154877
+128,Classic Headphones,fashion,495.4,True,2024-06-06 18:51:39.545423
+129,Classic Notebook,books,462.13,True,2025-01-04 00:59:14.447414
+130,Classic Notebook,electronics,396.41,True,2026-01-26 10:23:31.236541
+131,Essential Notebook,beauty,457.63,True,2024-10-20 17:23:13.856321
+132,Smart Shoes,beauty,180.73,True,2024-08-18 13:15:39.712018
+133,Premium Notebook,beauty,340.35,True,2024-05-01 16:15:43.199955
+134,Portable Watch,fashion,57.44,True,2024-04-12 06:54:55.834499
+135,Smart Notebook,beauty,261.8,True,2025-11-11 18:17:05.659198
+136,Essential Bottle,fashion,190.19,True,2024-11-25 12:32:43.150137
+137,Eco Notebook,beauty,252.73,True,2024-07-15 11:22:10.849820
+138,Premium Lamp,electronics,151.24,True,2025-10-07 06:07:10.362896
+139,Premium Headphones,beauty,75.13,True,2025-11-20 20:20:49.001300
+140,Classic Watch,home,262.95,True,2024-04-21 13:36:45.669859
+141,Premium Lamp,beauty,349.9,True,2024-05-12 19:38:33.795805
+142,Portable Headphones,beauty,61.97,True,2025-01-13 20:30:16.028003
+143,Eco Headphones,beauty,401.02,True,2025-05-19 04:41:33.971827
+144,Eco Bottle,books,91.35,True,2024-06-20 01:13:14.018021
+145,Essential Lamp,fashion,119.77,True,2024-08-28 09:12:22.029700
+146,Smart Bottle,beauty,330.37,True,2024-09-19 23:55:00.498276
+147,Eco Notebook,home,227.54,True,2024-11-14 07:30:02.025153
+148,Premium Shoes,home,106.86,True,2024-11-24 07:32:02.206175
+149,Premium Notebook,electronics,400.75,True,2024-05-01 10:15:36.794549
+150,Portable Backpack,home,231.49,True,2025-11-09 14:54:48.147438
+151,Classic Notebook,beauty,160.14,True,2024-09-26 11:30:26.040421
+152,Classic Notebook,electronics,177.22,True,2024-07-10 11:51:23.371723
+153,Essential Bottle,beauty,354.46,True,2025-07-06 20:29:49.893396
+154,Essential Notebook,electronics,337.69,True,2025-03-11 16:32:02.433357
+155,Smart Backpack,electronics,95.61,True,2025-06-23 00:12:44.127905
+156,Essential Lamp,fashion,300.23,True,2025-07-17 18:17:43.878423
+157,Classic Bottle,fashion,319.57,True,2025-12-12 10:05:08.201649
+158,Eco Bottle,books,87.6,True,2025-01-18 16:27:49.932814
+159,Smart Backpack,fashion,311.61,True,2025-01-31 15:10:26.246369
+160,Premium Lamp,home,101.59,True,2025-10-16 09:44:28.346578
+161,Essential Notebook,beauty,250.01,True,2024-06-13 12:12:45.276619
+162,Classic Shoes,fashion,246.91,True,2024-06-10 03:07:39.503833
+163,Premium Watch,home,149.58,True,2025-05-14 12:12:25.080739
+164,Essential Backpack,home,391.47,True,2025-09-06 13:14:59.033903
+165,Classic Notebook,books,61.04,True,2025-12-26 08:00:25.585692
+166,Essential Watch,sports,273.31,True,2025-10-04 08:18:25.643027
+167,Eco Lamp,books,113.18,True,2024-04-28 06:31:07.337514
+168,Eco Watch,beauty,376.92,True,2024-06-09 19:23:28.424630
+169,Premium Lamp,sports,177.55,True,2025-05-27 11:38:07.307814
+170,Classic Watch,electronics,388.94,True,2025-11-05 00:46:48.818608
+171,Eco Notebook,beauty,178.56,True,2025-12-01 22:18:44.686650
+172,Eco Lamp,home,309.99,True,2024-07-14 10:03:32.555223
+173,Smart Watch,electronics,287.19,True,2024-10-12 23:52:10.437601
+174,Essential Notebook,home,165.21,True,2025-01-21 03:51:39.409357
+175,Portable Notebook,sports,476.44,True,2025-03-05 07:48:43.892894
+176,Eco Watch,electronics,72.12,True,2025-08-04 07:02:24.438803
+177,Classic Headphones,sports,434.19,True,2024-06-05 16:57:42.834557
+178,Smart Bottle,home,357.14,True,2025-06-07 23:52:34.141207
+179,Eco Lamp,fashion,75.37,True,2024-11-10 11:30:37.268586
+180,Eco Lamp,fashion,228.74,True,2024-07-01 12:08:06.105992
+181,Premium Lamp,books,376.15,True,2025-10-21 02:21:05.604820
+182,Portable Lamp,fashion,167.01,True,2025-01-19 13:05:21.291559
+183,Eco Headphones,beauty,486.21,True,2025-01-03 21:12:48.641072
+184,Eco Backpack,electronics,398.86,True,2025-08-28 18:04:45.131452
+185,Classic Watch,home,249.88,True,2024-09-11 14:40:30.096389
+186,Portable Backpack,books,291.08,True,2025-09-24 15:32:35.116974
+187,Classic Watch,sports,447.61,True,2024-11-14 23:31:31.425395
+188,Premium Headphones,beauty,393.03,True,2025-03-04 17:44:59.994307
+189,Premium Watch,home,223.44,True,2024-05-27 06:42:32.604791
+190,Classic Bottle,beauty,455.16,True,2024-12-05 20:14:01.537947
+191,Portable Bottle,sports,51.2,True,2025-08-19 05:46:24.602535
+192,Premium Backpack,beauty,452.38,True,2024-11-27 22:28:02.114868
+193,Classic Shoes,sports,364.36,True,2025-06-19 23:57:03.999722
+194,Classic Shoes,electronics,353.33,True,2024-07-10 18:49:17.606859
+195,Classic Headphones,home,298.87,True,2025-08-18 08:14:32.566973
+196,Classic Headphones,electronics,349.32,True,2025-01-07 21:19:04.918802
+197,Classic Shoes,home,241.46,True,2024-08-31 02:57:43.007577
+198,Premium Shoes,electronics,56.08,True,2025-09-19 16:50:36.219839
+199,Portable Bottle,fashion,387.86,True,2025-01-02 07:33:09.347839
+200,Smart Shoes,beauty,75.71,True,2024-12-30 13:34:32.757077
